@@ -47,10 +47,10 @@ const Profile = () => {
           </a>
         ))}
         <a
-          href='https://wa.me/6282134927657'
+          href='/CV_PERDANA_PUTRO_HARWANTO.pdf'
           target='_blank'
-          className='duration-500 '
-          rel='noreferrer'
+          className='duration-500'
+          rel='noopener noreferrer'
         >
           <button className='flex gap-2 items-center border px-3 py-[9px] text-[14px] leading-3 font-normal rounded dark:bg-slate-50 bg-gray-900'>
             CV <MdInsertDriveFile size={16} />
